@@ -1,6 +1,6 @@
 # yatter
 
-A new Flutter project.
+Authenticiation App
 
 ## Getting Started
 
